@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Um Pedido Especial 💖</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Oi, Thata 💙💙💙💙💙🤍🤍🤍🤍🤍💚💚💚💚💚</h1>
+
+        <p>
+            Desde que você entrou na minha vida, meus dias ficaram mais leves, mais felizes  
+            e muito mais coloridos.  
+            Cada sorriso seu ilumina meu coração.  
+        </p>
+
+        <p>
+            Eu amo estar ao seu lado, dividir momentos, risadas e sonhos.  
+            E hoje eu só queria te fazer uma perguntinha especial...
+        </p>
+
+        <h2>Você quer ser a minha pituxinha..? Aceita construir uma poesia comigo..? Aceitas namorar comigo 🧡💛💜🤍❤️🌹🌼🌻
+? </h2>
+
+        <div class="botoes">
+            <button id="sim">SIMMMM 😍</button>
+            <button id="claro">CLAROOOO💙💙💙💙💙🤍🤍🤍🤍🤍💚💚💚💚💚</button>
+        </div>
+
+        <p class="assinatura">
+            Com carinho,  
+            <br>Seu fofuxinho 💘
+        </p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
